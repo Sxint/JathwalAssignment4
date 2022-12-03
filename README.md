@@ -1,3 +1,6 @@
-# WordCounterApp
-Note: this only works with Absolute Path.
-i love you
+## requirement
+
+data: 
+
+- req source: `Assignment_4-WordCounter.pdf`
+- data source: `data.txt`
