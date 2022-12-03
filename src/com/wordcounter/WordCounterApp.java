@@ -1,10 +1,10 @@
 /**
- * 	  Revision History
- *  	Josh Athwal 
+ *   Revision History
+ *   Josh Athwal 
  *   WordCounterApp.java
- * 		Assignment 4
- *  Created: 2022-11-30
- *  Comments: 2022-11-01
+ *   Assignment 4
+ *   Created: 2022-11-30
+ *   Comments: 2022-11-01
  */
 package com.wordcounter;
 import java.io.File;
