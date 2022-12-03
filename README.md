@@ -7,3 +7,4 @@ data:
 okok
 test
 E = mc^2
+E
