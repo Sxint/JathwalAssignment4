@@ -14,17 +14,17 @@ import java.util.Collections;
 import java.util.Scanner;
 
 public class WordCounterApp {
-	/**
-	 * Declare Constants
-	 */
+	
+	 // Declare Constants
+	 
 	public static final int minZero = 0;
 	public static final int indexOffsetZero = 1;
 	
-	/**
-	 *  Gets All words from file and assign words into an ArrayList
-	 *  Removes numbers and desired special characters (0123456789\\-\\&,.\\/')
-	 *  and displays
-	 */
+	
+	  //Gets All words from file and assign words into an ArrayList
+	  //Removes numbers and desired special characters (0123456789\\-\\&,.\\/')
+	  //and displays
+	 
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -53,7 +53,7 @@ public class WordCounterApp {
 
 			System.out.println(initalData.toString());
 
-			/* This deletes numbers and certain characters */
+			//This deletes numbers and certain characters 
 			//this ArrayList has the new data
 			
 			ArrayList<String> arrayListNew = new ArrayList<String>();
@@ -71,7 +71,7 @@ public class WordCounterApp {
 			}
 			System.out.println(sbNewData.toString());
 
-			/* displays on the console*/
+			//displays on the console
 			StringBuilder sbCountData = new StringBuilder(
 					"Length -- number of words\n");
 
