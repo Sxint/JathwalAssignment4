@@ -6,3 +6,4 @@ data:
 - data source: `data.txt`
 okok
 test
+E = mc^2
